@@ -1,2 +1,10 @@
-Hello, this is a file.
-This is another line.
+
+
+1. git status -> gives the status of the files in the current repo.
+2. git add . -> adds files for tracking and staging, where tracking refers to the act of making git watch the changes made in a file and staging refers to the act of making the changes made in a tracked file eligible for commit. Note that only tracking and staged changes are committed.
+3. git status
+4. git commit -m "" -> creates a snapshot of the current state of the repository.
+5. git log -> shows a list of the commits made in the repo.
+
+
+
