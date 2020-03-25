@@ -6,5 +6,9 @@
 4. git commit -m "" -> creates a snapshot of the current state of the repository.
 5. git log -> shows a list of the commits made in the repo.
 
+Branching:
+1. git branch -> shows a list of branches in a repository and also marks the current branch.
+2. git checkout <branchname> -> switches to <branchname>
+3. git checkout -b <newbranchname> -> creates a new branch called <newbranchname> and switches to it.
 
 
